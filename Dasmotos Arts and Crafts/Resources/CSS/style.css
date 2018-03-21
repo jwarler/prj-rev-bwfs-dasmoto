@@ -1,0 +1,38 @@
+h1 {
+  font-size:          100px;
+  font-weight:        bold;
+  color:              khaki;
+  text-align:         center;
+
+  background-image:   url('/Users/jeanine/Documents/Codecademy/Projects/Dasmotos Arts and Crafts/Resources/pattern.jpeg');
+}
+
+h2{
+  font-size:          32px;
+  font-weight:        bold;
+  color:              white;
+}
+
+h1,
+h2,
+h3,
+p{
+    font-family:      Helvetica;
+}
+
+.bcolorGreen {
+  background-color:   mediumspringgreen;
+}
+
+.bcolorCoral {
+  background-color:   lightcoral;
+}
+
+.bcolorBlue {
+  background-color:   skyblue;
+}
+
+.price {
+  font-weight:        bold;
+  color:              blue;
+}
